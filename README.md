@@ -29,7 +29,7 @@ The basic circuit setup includes connecting the LEDs to specific digital pins on
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/arduino-memory-game.git
+    git clone https://github.com/dan1471/Arduino-Memory-Game.git
     cd arduino-memory-game
     ```
 
